@@ -1,0 +1,15 @@
+x = "lisa"
+y = "july 1"
+print(" Birth day of", x, "is", y )
+x = "george"
+y = "august 15"
+print("\n Birth day of", x, "is", y )
+x = "natesha"
+y = "january 29"
+print("\n Birth day of", x, "is", y)
+x = "prianka"
+y = "september 4"
+print("\n Birth day of", x, "is", y)
+x = "amber"
+y = "may 24"
+print("\n Birth day of", x, "is", y)
